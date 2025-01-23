@@ -1,0 +1,10 @@
+[package]
+name = "Embedding_Degree_Computation_in_Finite_Fields_Using_Rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-bigint = "0.4"
+num-integer = "0.1"
+num-traits = "0.2"
+
