@@ -1,6 +1,6 @@
 # Embedding Degree Computation in Finite Fields Using Rust
 
-This Rust program computes the **embedding degree** `k`, given the characteristic `p` of a finite field `F_p` and the order `r` of a subgroup of the multiplicative group `F_p*`. The embedding degree `k` is the smallest positive integer such that `r` divides `p^k - 1`.
+This Rust program computes the **embedding degree** `k`, given the characteristic `p` of a finite field $\mathbb{F}_p$ and the order `r` of a subgroup of the multiplicative group $\mathbb{F}_p^*$. The embedding degree `k` is the smallest positive integer such that `r` divides `p^k - 1`.
 
 ## Features
 
